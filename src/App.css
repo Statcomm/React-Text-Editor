@@ -33,6 +33,9 @@
     transform: rotate(0deg);
   }
   to {
-    transform: rotate(360deg);
+    transform: rotate(10000deg);
   }
+}
+.buttonsStyle {
+  justify-content: center;
 }
